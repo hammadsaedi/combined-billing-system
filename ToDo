@@ -1,0 +1,85 @@
+Main:
+    Menu Driven
+
+Operation: (Dynamic)
+    Print Bill by ID
+    Other Operation
+
+Society: (Dynamic)
+    Society Map
+
+Record: (Dynamic)
+    DBMS Field
+
+
+Fake_reading:
+
+
+
+
+-- Use Name Convention
+-- Use Camal Case 
+
+record = int[][][] = {
+        {
+            {
+                0
+            }
+        },
+
+
+        {
+            {
+                0
+            }
+        },
+
+
+        {
+            {
+                0
+            }
+            {
+                0
+            }
+            {
+                0
+            }
+            {
+                0,
+                0,
+                0
+            }
+        },
+        
+         
+        {
+            {
+                0
+            }
+            {
+                0
+            }
+            {
+                0
+            }
+            {
+                0,
+                0,
+                0
+            }
+        }
+    }
+
+record[sector][ss][s][h][p]
+
+
+Cookies ...> Object Serializations
+// Previous Month
+// Next Month
+// Can Update Individual
+
+Operations ...> Push & Pull Methods for names & recrod // Names are also Editable?
+
+Deletion of Record: What happens on deletion of record?
+
